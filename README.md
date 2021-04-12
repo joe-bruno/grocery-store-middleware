@@ -25,5 +25,6 @@ Requirements:
     * The second endpoint will need to accept an array of purchasable items and calculate the total price of the order. The total price is the 
       sum of all purchasable items specified in the request plus a 6.25% tax rate of the items sum. 
     * The third endpoint should accept a customer id and return me the customer details and their past orders, sorted by most recent. 
-2) Build tests for each endpoint using any framework of your choosing. Include both pass and fail scenarios. 
+2) Build tests for each endpoint using any framework of your choosing. Include both pass and fail scenarios. For ease of use, Mocha is a quick to setup
+   and build on framework. 
 
